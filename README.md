@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @DiegoNarv
+- 👀 I am interested in finding people who, like me, are learning to program and expert people who can help us grow.
+- 🌱 I am currently learning HTML and JavaScript
